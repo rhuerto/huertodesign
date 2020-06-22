@@ -1,11 +1,13 @@
 
-<p align="center" style="background-color:rgba(0, 0, 0, 0.0470588)">
-  <a href="https://www.huertodesign.com">
-    <img alt="Huerto Design" src="https://www.huertodesign.com/static/9f4e74f2e40bd54ef9c29ab998fedafa/62fe3/huertodesign_main_logo.png" />
-  </a>
+<p align="center">
+  <div style="background-color:rgba(0, 0, 0, 0.0470588)">
+    <a href="https://www.huertodesign.com">
+      <img alt="Huerto Design" src="https://www.huertodesign.com/static/9f4e74f2e40bd54ef9c29ab998fedafa/62fe3/huertodesign_main_logo.png" />
+    </a>
+  </div>
 </p>
 
-Online portfolio of Rod Huerto to showcase and display past projects, experience and skills I've picked up during my years as a front-end, interactive, manager, designer and developer.
+Online portfolio of Rod Huerto to showcase and display past projects, experience and skills I've picked up during my years as web designer and developer. Below is the tech stack I used to create this portfolio.
 
 **GatsbyJS**
 > I used the GatsbyJS framework to help build this static website using easy templating, code optimizations but most importantly the access to use graphQL for data queries.
