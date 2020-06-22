@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style="color:rgb(0,0,0)">
   <a href="https://www.huertodesign.com">
     <img alt="Huerto Design" src="https://www.huertodesign.com/static/9f4e74f2e40bd54ef9c29ab998fedafa/62fe3/huertodesign_main_logo.png" />
   </a>
